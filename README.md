@@ -4,7 +4,7 @@ MCP Chat is a command-line interface application that enables interactive chat c
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.9
 - Anthropic API Key
 
 ## Setup
